@@ -70,3 +70,4 @@ Advanced Techniques can be used using following dataset
 # NOTE : Checkout ipython file to contribute to the project
 **link:** https://github.com/GreatestAnalyst/Fashion-Class-Classification/blob/master/Fashion%20Class%20Classification.ipynb
 
+![1_oB3S5yHHhvougJkPXuc8og](https://user-images.githubusercontent.com/47801267/70410914-a7173300-1a76-11ea-9601-d7e4db3c606c.gif)
