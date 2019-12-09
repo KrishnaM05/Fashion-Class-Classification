@@ -68,4 +68,5 @@ Advanced Techniques can be used using following dataset
 **Check out:** https://vue.ai/   
 **Deep Fashion Dataset:** http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
 # NOTE : Checkout ipython file to contribute to the project
-**link:**
+**link:** https://github.com/GreatestAnalyst/Fashion-Class-Classification/blob/master/Fashion%20Class%20Classification.ipynb
+
