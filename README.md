@@ -1,6 +1,6 @@
 ![fashion-2013-03-0304-dvf-nyfw-fall2013](https://user-images.githubusercontent.com/47801267/70408584-b2666080-1a6e-11ea-9279-a7f49b9d8bcf.gif)
-# Fashion Class Classification - Using CNN(Convolutional Neural Network
-## ==> Means to NN after Converting features(image pixels) to desired form
+## Fashion Class Classification - Using CNN(Convolutional Neural Network
+### ==> Means to NN after Converting features(image pixels) to desired form
 ![nervecell](https://user-images.githubusercontent.com/47801267/70408760-53edb200-1a6f-11ea-9350-44cebc027473.gif)
 
 The Global fashion industry is valued at 3 Trillion Dollar & Accounts for 2% of World's GDP. Here we are going to use ML technique to classify the Fashion Class to build a virtual stylish assistant that looks at customer's social media images & classify what styles the customers are wearing, The virtual assistant can help retailer to find fashion trends & launch targeted fashion campaigns. Here we are going to use fashion MNIST data which contains images of bags, shoes, dresses, etc. & we are asking the deep network to classify the images into 10 classes.Here We want to build say app or model which can learn & say what kind of class this image belongs to whether it is bag, shorts, dress, hat. That is we want to build a deep learning model that can classify the images into different categories.Here we have gray-scale images & have to classify these gray-scale images into 10 class or 10 cathegories. The Prime example that we are going to build can be Amazon's Echo look style Assistant.
