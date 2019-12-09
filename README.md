@@ -62,3 +62,10 @@ Like the above image of sneakers we have 70k gray-scaled images, We will use bin
 ![image](https://user-images.githubusercontent.com/47801267/70410671-da0cf700-1a75-11ea-8df9-1cacd0efd8ad.png)
 ![image](https://user-images.githubusercontent.com/47801267/70410694-edb85d80-1a75-11ea-9ccc-24d557ba2ceb.png)
 ![image](https://user-images.githubusercontent.com/47801267/70410699-f0b34e00-1a75-11ea-9042-e6e78d71f785.png)
+
+Advanced Techniques can be used using following dataset    
+
+**Check out:** https://vue.ai/   
+**Deep Fashion Dataset:** http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
+# NOTE : Checkout ipython file to contribute to the project
+**link:**
